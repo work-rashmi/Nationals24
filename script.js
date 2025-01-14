@@ -63,7 +63,7 @@ document.getElementById('fetchButton').addEventListener('click', function() {
         // Redirect to Facebook page after displaying details
         setTimeout(function() {
             window.location.href = "https://www.facebook.com/eagerbeaverabacus/reviews";  // Replace with your Facebook page link
-        }, 5000); // Redirect after 2 seconds
+        }, 2500); // Redirect after 2 seconds
     } else {
         alert("No details found for this mobile number.");
     }
