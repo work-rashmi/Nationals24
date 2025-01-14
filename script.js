@@ -37,7 +37,7 @@
         { Name: 'VIAAN GHOLAP', DOB: '02.04.2018', Grade: '1ST', School: 'BIRALA BRAINAICS', Prize: 'SUPER CHAMPION', Mobile: '8484817044' },
         { Name: 'VIRRAJ SINGH SOKHI', DOB: '09.07.2017', Grade: '2ND', School: 'NEW HORIZON SCHOLAR SCHOOL', Prize: '3RD', Mobile: '8828024423' },
         { Name: 'VIVAAN VERMA', DOB: '11.12.2018', Grade: '1ST', School: 'NEW HORIZON INTERNATIONAL SCHOOL', Prize: '3RD', Mobile: '8104177202' },
-        { Name: 'YUTIKA KHALI', DOB: '18.01.2015', Grade: '5TH', School: 'GAYATRI VIDYALAYA', Prize: '1ST', Mobile: '8657868656' },
+        { Name: 'YUTIKA KHALI', DOB: '18.01.2015', Grade: '5TH', School: 'GAYATRI VIDYALAYA', Prize: '1ST', Mobile: '8439304241' },
     ];
 
 
