@@ -21,7 +21,7 @@
         { Name: 'ISHAAN YOGESH DESAI', DOB: '25.02.2015', Grade: '5TH', School: 'TANARATA INTERNATIONAL SCHOOL', Prize: 'CHAMPION', Mobile: '60179024162' },
         { Name: 'JIVESH DINANATH MANERA', DOB: '16.06.2014', Grade: '5TH', School: 'NEW HORIZON SCHOLARS SCHOOL', Prize: 'CHAMPION', Mobile: '9820738057' },
         { Name: 'KAIRA DAS', DOB: '06.06.2017', Grade: '2ND', School: 'PODAR INTERNATIONAL SCHOOL', Prize: 'CHAMPION', Mobile: '9930323621' },
-        { Name: 'KIAARA PACHGADE', DOB: '27.03.2017', Grade: '2ND', School: 'HIRANANDANI FOUNDATION SCHOOL', Prize: '3RD', Mobile: '8080388988' },
+        { Name: 'KIAARA PACHGADE', DOB: '21.03.2017', Grade: '2ND', School: 'HIRANANDANI FOUNDATION SCHOOL', Prize: '3RD', Mobile: '8080388988' },
         { Name: 'MEHAL GOYAL', DOB: '15.01.2017', Grade: '2ND', School: 'APPLE GLOBAL SCHOOL', Prize: '3RD', Mobile: '7506195770' },
         { Name: 'MITIN NITIN BHAMBHANI', DOB: '21.08.2017', Grade: '2ND', School: 'Universal High School', Prize: '3RD', Mobile: '9860420718' },
         { Name: 'NIRMAYEE RAJESH MHATRE', DOB: '12.05.2017', Grade: '2ND', School: 'GAUTAM SINGHANIA SCHOOL', Prize: '3RD', Mobile: '9987332123' },
